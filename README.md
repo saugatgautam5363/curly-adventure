@@ -1,3 +1,4 @@
+![logo](https://github.com/saugatgautam5363/saugatgautam5363/blob/main/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Saugat Gautam</h1>
 <h3 align="center">A passionate Software Engineer from,Nepal</h3>
 
